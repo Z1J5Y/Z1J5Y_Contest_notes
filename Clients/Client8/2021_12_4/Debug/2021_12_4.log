@@ -1,0 +1,5 @@
+﻿  main.c
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client8\2021_12_4\main.c(232,46): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client8\2021_12_4\main.c(255,35): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client8\2021_12_4\main.c(423,46): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  2021_12_4.vcxproj -> D:\01\00_study\C PROJECT 01\Project1\Clients\Client8\2021_12_4\Debug\2021_12_4.exe

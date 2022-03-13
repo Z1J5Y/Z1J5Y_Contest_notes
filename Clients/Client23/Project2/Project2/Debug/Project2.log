@@ -1,0 +1,10 @@
+﻿  LineOfMines.cpp
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(13,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(25,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(56,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Project2\LineOfMines.cpp(65,20): warning C4018: “<”: 有符号/无符号不匹配
+  Linesweeper.cpp
+  正在生成代码...
+  Project2.vcxproj -> D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project2\Debug\Project2.exe

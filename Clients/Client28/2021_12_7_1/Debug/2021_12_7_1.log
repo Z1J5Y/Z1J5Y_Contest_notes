@@ -1,0 +1,8 @@
+﻿  Cards.cpp
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client28\2021_12_7_1\Cards.cpp(36,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client28\2021_12_7_1\Cards.cpp(46,20): warning C4018: “<”: 有符号/无符号不匹配
+  Game.cpp
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client28\2021_12_7_1\Game.cpp(83,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Client28\2021_12_7_1\Game.cpp(88,22): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  2021_12_7_1.vcxproj -> D:\01\00_study\C PROJECT 01\Project1\Clients\Client28\2021_12_7_1\Debug\2021_12_7_1.exe

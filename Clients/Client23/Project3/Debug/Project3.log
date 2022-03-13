@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  Range.cpp
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project3\Range.cpp(25,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project3\Range.cpp(35,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project3\Range.cpp(18): warning C4715: “cardValue”: 不是所有的控件路径都返回值
+  Project3.vcxproj -> D:\01\00_study\C PROJECT 01\Project1\Clients\Clients23\Project3\Debug\Project3.exe
