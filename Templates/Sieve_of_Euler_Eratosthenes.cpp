@@ -15,9 +15,9 @@ inline int read()
 const ll LEN=1e8+7;
 
 int a,b;
-
-bool flag[LEN];
 std::vector<ll> primes;
+bool flag[LEN];
+
 void Eratothenes()
 {
 	for(ll i=3;i*i<=LEN;++i)
@@ -25,20 +25,40 @@ void Eratothenes()
 			for(ll j=i*i;j<=LEN;j+=i)
 				flag[j]=true;
 }
+
+
+
 void Euler()
 {
-	for (ll i = 2; i <= b; ++i)
+	for(ll i=2;i<LEN;++i)
 	{
-		if (!flag[i])
-			primes.push_back(i);
-		for (ll j = 0; j < primes.size() && i * primes[j] < b; ++j)
+		if(!flag[i])
 		{
-			flag[i * primes[j]] = true;
-			if (i % primes[j] == 0)
-				break;
+			primes.push_back(i);
+		}
+		for(ll j=0;j<primes.size()&&i*primes[j]<LEN;++j)
+		{
+			flag[i*primes[j]]=true;
+			if(i%primes[j]==0) break;
 		}
 	}
 }
+// bool flag[LEN];
+// std::set<ll> primes;
+// void Euler()
+// {
+// 	for (ll i = 2; i <= LEN; ++i)
+// 	{
+// 		if (!flag[i])
+// 			primes.emplace(i);
+// 		for (auto j = primes.begin(); j != primes.end() && i * (*j) < LEN; ++j)
+// 		{
+// 			flag[i * (*j)] = true;
+// 			if (i % (*j) == 0)
+// 				break;
+// 		}
+// 	}
+// }
 bool palindrome(int n)
 {
 	string a(to_string(n));
